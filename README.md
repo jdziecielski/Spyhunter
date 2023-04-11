@@ -1,4 +1,4 @@
-# Spyhunter game using SDL2 library in C++
+# Spyhunter game using SDL2 library in C/C++
 
 ### In order to compile this project, it is required to include SDL2 directory in Visual Studio. To do so:
 1. Open VC++ Directories tab in Project->Properties.
